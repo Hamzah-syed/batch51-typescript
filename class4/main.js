@@ -65,6 +65,6 @@
 // const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 // const citrus = fruits.slice(1, 3);
 // console.log(citrus);
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-let a = fruits.splice(2, 0, "Lemon", "Kiwi");
-console.log(a);
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// let a = fruits.splice(2, 0, "Lemon", "Kiwi");
+// console.log(a);

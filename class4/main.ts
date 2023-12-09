@@ -117,9 +117,12 @@
 
 // console.log(citrus);
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
 
-let a = fruits.splice(2, 0, "Lemon", "Kiwi");
+// let a = fruits.splice(2, 0, "Lemon", "Kiwi");
 
-console.log(a);
+// console.log(a);
+
+
+
 
